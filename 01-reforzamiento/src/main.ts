@@ -1,6 +1,7 @@
 import './style.css'
 
-import './bases/06-obj-destructuring';
+import './bases/09-promises';
+//import './task/1-useState'
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
